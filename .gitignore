@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+out/
+digest.html
+state/
+*.db
+_coord/
+_coord-backups/
+*.jsonl
+.claude/
+
+# не частина find_new: особисте дослідження по компаніях і рекрутерах
+company/
+
+# сміття
+server.log
+*.bak
+«*
